@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @manishkanawade
-- 👀 I’m interested in ...Data Science and ML
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...projet in python
 - 📫 How to reach me ...manishkanawade007@gmail.com
 
 <!---
